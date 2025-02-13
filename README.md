@@ -1,3 +1,22 @@
+<!-- Contador de visitas alinhado à direita -->
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=danilotavares&color=ff69b4&style=flat-square" alt="contador de visitas" />
+</p> 
+
+<!-- Badges de redes sociais -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/danilotavarescc/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/danilotavares" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:danilotavarescc@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+
+# Welcome! ✨  
+
 I am Brazilian, born in Condado/PE and currently residing in João Pessoa/PB.
 
 Throughout 10 years of experience in Software Quality, I have understood that quality is a multifaceted and dynamic concept. Each project has its own definitions and priorities regarding quality.
