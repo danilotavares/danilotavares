@@ -30,7 +30,7 @@ Selenium WebDriver, Robot Framework, Cypress, Rest-Assured, Cucumber BDD, JUnit,
 <div align="center">
 <picture>
   <img
-    src="https://skillicons.dev/icons?i=java,js,python,dotnet,cucumber,postman,vscode,intellij,aws,git,github"
+    src="https://skillicons.dev/icons?i=java,js,python,dotnet,postman,vscode,aws,git,github"
   />
 </picture>
 </div>
