@@ -30,12 +30,10 @@ Selenium WebDriver, Robot Framework, Cypress, Rest-Assured, Cucumber BDD, JUnit,
 <div align="center">
 <picture>
   <img
-    src="https://skillicons.dev/icons?i=java,js,dotnet,visualstudio,vscode,aws,git,github"
+    src="https://skillicons.dev/icons?i=java,js,python,dotnet,cucumber,postman,vscode,intellij,aws,git,github"
   />
 </picture>
 </div>
-
-![image](https://github.com/user-attachments/assets/fd905701-7f89-4c6b-9e36-aa9f9d83eda7)
 
 🔭 I am currently a Senior Quality Engineer at Zup IT Innovation. I work with manual and automated testing for API backend and Web frontend, non-functional testing such as performance testing, and I help others grow in their careers.
 
