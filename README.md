@@ -15,11 +15,25 @@
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 
-# Welcome!
+# Welcome, I'm Danilo Tavares!
 
-I am Brazilian, born in Condado/PE and currently residing in João Pessoa/PB.
 
-Throughout 10 years of experience in Software Quality, I have understood that quality is a multifaceted and dynamic concept. Each project has its own definitions and priorities regarding quality.
+I am **Brazilian** born in the state of **Pernambuco**, but I currently reside in **Paraíba** in the city of **João Pessoa**.
+
+I am a specialist in Software Engineering and Quality, with certifications in Software Testing (CTFL), Test Automation (CTAL-TAE) and AWS Cloud Practitioner. My journey includes applying Automated Functional Testing in Frontend (End-2-End) and Backend (REST APIs) layers, integrating these tests into Continuous Software Delivery Pipelines (Continuous Testing). In addition, I work on other quality fronts such as Usability and Performance Testing (Load Testing and Stress Testing) and applying Mutation Testing (Mutation Testing).
+
+Recently, I started using generative AI in the context of quality, to optimize activities such as writing and automating test cases, building data mass and code review.
+
+- Tools and Technologies: 
+Selenium WebDriver, Robot Framework, Cypress, Rest-Assured, Cucumber BDD, JUnit, TestNG, AssertJ, RestSharp, Specflow, XUnit, SoapUI, Postman, Insomnia, JMeter, Maven, Stryker.NET.
+
+<div align="center">
+<picture>
+  <img
+    src="https://skillicons.dev/icons?i=java,js,dotnet,visualstudio,vscode,aws,git,github"
+  />
+</picture>
+</div>
 
 ![image](https://github.com/user-attachments/assets/fd905701-7f89-4c6b-9e36-aa9f9d83eda7)
 
