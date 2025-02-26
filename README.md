@@ -32,7 +32,7 @@ Tools and Technologies I work with: **Selenium, Robot Framework, Cypress, Rest-A
 <div align="center">
 <picture>
   <img
-    src="https://skillicons.dev/icons?i=java,py,js,dotnet,selenium,gherkin,postman,vscode,idea,pycharm,aws,git,github,aws"
+    src="https://skillicons.dev/icons?i=selenium,gherkin,postman,java,py,js,dotnet,vscode,idea,pycharm,aws,git,github"
   />
 </picture>
 </div>
