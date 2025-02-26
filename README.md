@@ -24,7 +24,7 @@ I am a specialist in Software Engineering and Quality, with certifications in So
 
 Recently, I started using **generative AI in the context of quality**, to optimize activities such as writing and automating test cases, building data mass and code review.
 
-I am currently a Senior Quality Engineer at Zup IT Innovation. I work with manual and automated testing for API backend and Web frontend, non-functional testing such as performance testing, and I help others grow in their careers.
+I'm a Senior Quality Engineer at Zup IT Innovation, I work with manual and automated tests applied to APIs (backend) and Web pages (frontend). I also implement non-functional tests such as performance and mutation tests. Whenever I can, I help other QAs grow in their careers.
 
 Tools and Technologies I work with: **Selenium, Robot Framework, Cypress, Rest-Assured, Cucumber BDD, JUnit, TestNG, AssertJ, RestSharp, Specflow, XUnit, SoapUI, Postman, Insomnia, JMeter, Maven**. Programming languages: **Java, Python, Javascript, and .NET**.
 
@@ -32,7 +32,7 @@ Tools and Technologies I work with: **Selenium, Robot Framework, Cypress, Rest-A
 <div align="center">
 <picture>
   <img
-    src="https://skillicons.dev/icons?i=java,python,js,dotnet,postman,vscode,aws,git,github"
+    src="https://skillicons.dev/icons?i=java,py,js,dotnet,selenium,gherkin,postman,vscode,idea,pycharm,aws,git,github,aws"
   />
 </picture>
 </div>
