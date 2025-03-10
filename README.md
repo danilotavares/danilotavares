@@ -22,9 +22,7 @@ I am **Brazilian** born in the state of **Pernambuco**, but I currently reside i
 
 I am a specialist in Software Engineering and Quality, with certifications in Software Testing (CTFL), Test Automation (CTAL-TAE) and AWS Cloud Practitioner. My journey includes applying **Automated Functional Testing** in Frontend (End-2-End) and Backend (REST APIs) layers, integrating these tests into Continuous Software Delivery Pipelines (Continuous Testing). In addition, I work on other quality fronts such as **Usability and Performance Testing** (Load Testing and Stress Testing) and applying **Mutation Testing** (Mutation Testing).
 
-Recently, I started using **generative AI in the context of quality**, to optimize activities such as writing and automating test cases, building data mass and code review.
-
-I'm a Senior Quality Engineer at Zup IT Innovation, I work with manual and automated tests applied to APIs (backend) and Web pages (frontend). I also implement non-functional tests such as performance and mutation tests. Whenever I can, I help other QAs grow in their careers.
+I am a Senior Quality Engineer at Zup IT Innovation and, recently, started using **generative AI in the context of quality** to optimize activities such as writing and automating test cases, building data sets, and code review. Whenever I can, I help other QAs grow their careers.
 
 Tools and Technologies I work with: **Selenium, Robot Framework, Cypress, Rest-Assured, Cucumber BDD, JUnit, TestNG, AssertJ, RestSharp, Specflow, XUnit, SoapUI, Postman, Insomnia, JMeter, Maven**. Programming languages: **Java, Python, Javascript, and .NET**.
 
@@ -38,4 +36,4 @@ Tools and Technologies I work with: **Selenium, Robot Framework, Cypress, Rest-A
 </div>
 
 
-👯 I would like to use this space to help others with examples and project templates for test automation.
+I would like to use this space to help others with examples and project templates for test automation.
